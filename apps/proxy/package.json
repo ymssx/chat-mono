@@ -1,0 +1,16 @@
+{
+  "name": "proxy",
+  "version": "0.0.0",
+  "private": true,
+  "description": "> TODO: description",
+  "homepage": "",
+  "license": "ISC",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "express": "^4.19.2",
+    "http-proxy-middleware": "^2.0.0"
+  }
+}

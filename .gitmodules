@@ -1,0 +1,6 @@
+[submodule "apps/client"]
+	path = apps/client
+	url = git@github.com:ymssx/chat.git
+[submodule "apps/server"]
+	path = apps/server
+	url = git@github.com:ymssx/chat-server.git
